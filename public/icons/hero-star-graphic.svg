@@ -1,0 +1,18 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="graphic-element">
+<path id="Vector 15" d="M18 0L18 36" stroke="url(#paint0_linear_60_93)"/>
+<path id="Vector 16" d="M36 18L9.53674e-07 18" stroke="url(#paint1_linear_60_93)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_60_93" x1="18" y1="36" x2="18.0001" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#218B81" stop-opacity="0"/>
+<stop offset="0.50284" stop-color="#218B81"/>
+<stop offset="1" stop-color="#218B81" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_60_93" x1="0" y1="18" x2="36" y2="18.0001" gradientUnits="userSpaceOnUse">
+<stop stop-color="#218B81" stop-opacity="0"/>
+<stop offset="0.50284" stop-color="#218B81"/>
+<stop offset="1" stop-color="#218B81" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

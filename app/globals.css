@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("../styles/theme.css");
+
+:-webkit-autofill {
+  -webkit-text-fill-color: #222325;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+input:autofill::placeholder {
+  font-size: 20px !important;
+}

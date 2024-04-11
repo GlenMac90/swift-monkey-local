@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .flex-center {
+    @apply flex items-center justify-center;
+  }
+
+  .flex-between {
+    @apply flex items-center justify-between;
+  }
+
+  .heading-bold-1 {
+    @apply font-bold text-[30px] leading-[36px] xs:text-[40px] lg:text-[72px] xs:leading-[48px] lg:leading-[79px];
+  }
+
+  .heading-bold-3 {
+    @apply font-bold text-[24px] lg:text-[40px] leading-[26.4px] lg:leading-[48px];
+  }
+
+  .paragraph-bold-1 {
+    @apply font-bold text-[20px] lg:text-[24px] leading-[26.4px];
+  }
+
+  .paragraph-bold-2 {
+    @apply font-bold text-[16px] lg:text-[20px] leading-[17.6px] lg:leading-[30px];
+  }
+
+  .paragraph-bold-4 {
+    @apply font-bold text-[14px] leading-[21px];
+  }
+
+  .paragraph-med-2 {
+    @apply font-normal lg:font-medium text-[16px] lg:text-[18px] leading-[24px] lg:leading-[27px];
+  }
+
+  .paragraph-reg-1 {
+    @apply font-normal text-[20px] leading-[30px];
+  }
+
+  .paragraph-reg-2 {
+    @apply font-normal text-[18px] leading-[27px];
+  }
+
+  .paragraph-reg-3 {
+    @apply font-normal text-[16px] leading-[24px];
+  }
+
+  .paragraph-reg-4 {
+    @apply font-normal text-[14px] leading-[21px];
+  }
+
+  .paragraph-reg-5 {
+    @apply font-normal text-[12px] leading-[18px];
+  }
+
+  .label-med {
+    @apply font-normal text-[18px] leading-[27px] uppercase tracking-wide;
+  }
+}
